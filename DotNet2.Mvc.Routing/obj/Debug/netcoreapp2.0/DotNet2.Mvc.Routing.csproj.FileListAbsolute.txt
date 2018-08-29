@@ -1,0 +1,11 @@
+C:\MyFolder\Study\Microsoft.Net\Practices\DotNet2.Mvc\DotNet2.Mvc.Routing\bin\Debug\netcoreapp2.0\DotNet2.Mvc.Routing.deps.json
+C:\MyFolder\Study\Microsoft.Net\Practices\DotNet2.Mvc\DotNet2.Mvc.Routing\bin\Debug\netcoreapp2.0\DotNet2.Mvc.Routing.runtimeconfig.json
+C:\MyFolder\Study\Microsoft.Net\Practices\DotNet2.Mvc\DotNet2.Mvc.Routing\bin\Debug\netcoreapp2.0\DotNet2.Mvc.Routing.runtimeconfig.dev.json
+C:\MyFolder\Study\Microsoft.Net\Practices\DotNet2.Mvc\DotNet2.Mvc.Routing\bin\Debug\netcoreapp2.0\DotNet2.Mvc.Routing.dll
+C:\MyFolder\Study\Microsoft.Net\Practices\DotNet2.Mvc\DotNet2.Mvc.Routing\obj\Debug\netcoreapp2.0\DotNet2.Mvc.Routing.csprojAssemblyReference.cache
+C:\MyFolder\Study\Microsoft.Net\Practices\DotNet2.Mvc\DotNet2.Mvc.Routing\obj\Debug\netcoreapp2.0\DotNet2.Mvc.Routing.csproj.CoreCompileInputs.cache
+C:\MyFolder\Study\Microsoft.Net\Practices\DotNet2.Mvc\DotNet2.Mvc.Routing\obj\Debug\netcoreapp2.0\DotNet2.Mvc.Routing.AssemblyInfoInputs.cache
+C:\MyFolder\Study\Microsoft.Net\Practices\DotNet2.Mvc\DotNet2.Mvc.Routing\obj\Debug\netcoreapp2.0\DotNet2.Mvc.Routing.AssemblyInfo.cs
+C:\MyFolder\Study\Microsoft.Net\Practices\DotNet2.Mvc\DotNet2.Mvc.Routing\bin\Debug\netcoreapp2.0\DotNet2.Mvc.Routing.pdb
+C:\MyFolder\Study\Microsoft.Net\Practices\DotNet2.Mvc\DotNet2.Mvc.Routing\obj\Debug\netcoreapp2.0\DotNet2.Mvc.Routing.dll
+C:\MyFolder\Study\Microsoft.Net\Practices\DotNet2.Mvc\DotNet2.Mvc.Routing\obj\Debug\netcoreapp2.0\DotNet2.Mvc.Routing.pdb
