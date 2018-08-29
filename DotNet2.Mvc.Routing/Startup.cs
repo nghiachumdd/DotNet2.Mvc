@@ -22,19 +22,21 @@ namespace DotNet2.Mvc.Routing
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseMvc(routes =>
-            {
-                routes.MapRoute(
-                        name: "pageOne",
-                        template: "one",
-                        defaults: new { controller = "Home", action = "PageOne" }
-                    );
+            //app.UseMvc(routes =>
+            //{
+            //    routes.MapRoute(
+            //            name: "pageOne",
+            //            template: "one",
+            //            defaults: new { controller = "Home", action = "PageOne" }
+            //        );
 
-                routes.MapRoute(
-                        name: "default",
-                        template: "{controller=Home}/{action=Index}/{id?}"
-                    );
-            });
+            //    routes.MapRoute(
+            //            name: "default",
+            //            template: "{controller=Home}/{action=Index}/{id?}"
+            //        );
+            //});
+
+            app.UseMvc();
 
             app.Run(async (context) =>
             {
