@@ -1,0 +1,11 @@
+C:\MyFolder\Study\Microsoft.Net\Practices\DotNet2.Mvc.ModelBinding\bin\Debug\netcoreapp2.0\DotNet2.Mvc.ModelBinding.deps.json
+C:\MyFolder\Study\Microsoft.Net\Practices\DotNet2.Mvc.ModelBinding\bin\Debug\netcoreapp2.0\DotNet2.Mvc.ModelBinding.runtimeconfig.json
+C:\MyFolder\Study\Microsoft.Net\Practices\DotNet2.Mvc.ModelBinding\bin\Debug\netcoreapp2.0\DotNet2.Mvc.ModelBinding.runtimeconfig.dev.json
+C:\MyFolder\Study\Microsoft.Net\Practices\DotNet2.Mvc.ModelBinding\bin\Debug\netcoreapp2.0\DotNet2.Mvc.ModelBinding.dll
+C:\MyFolder\Study\Microsoft.Net\Practices\DotNet2.Mvc.ModelBinding\bin\Debug\netcoreapp2.0\DotNet2.Mvc.ModelBinding.pdb
+C:\MyFolder\Study\Microsoft.Net\Practices\DotNet2.Mvc.ModelBinding\obj\Debug\netcoreapp2.0\DotNet2.Mvc.ModelBinding.csproj.CoreCompileInputs.cache
+C:\MyFolder\Study\Microsoft.Net\Practices\DotNet2.Mvc.ModelBinding\obj\Debug\netcoreapp2.0\DotNet2.Mvc.ModelBinding.AssemblyInfoInputs.cache
+C:\MyFolder\Study\Microsoft.Net\Practices\DotNet2.Mvc.ModelBinding\obj\Debug\netcoreapp2.0\DotNet2.Mvc.ModelBinding.AssemblyInfo.cs
+C:\MyFolder\Study\Microsoft.Net\Practices\DotNet2.Mvc.ModelBinding\obj\Debug\netcoreapp2.0\DotNet2.Mvc.ModelBinding.dll
+C:\MyFolder\Study\Microsoft.Net\Practices\DotNet2.Mvc.ModelBinding\obj\Debug\netcoreapp2.0\DotNet2.Mvc.ModelBinding.pdb
+C:\MyFolder\Study\Microsoft.Net\Practices\DotNet2.Mvc.ModelBinding\obj\Debug\netcoreapp2.0\DotNet2.Mvc.ModelBinding.csprojAssemblyReference.cache

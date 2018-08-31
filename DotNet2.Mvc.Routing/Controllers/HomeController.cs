@@ -25,5 +25,11 @@ namespace DotNet2.Mvc.Routing.Controllers
         {
             return Content($"(Post) This is page two: {id}");
         }
+
+        [HttpPost]
+        public IActionResult PageTwo1(int id)
+        {
+            return Content($"(Post) This is page two: {id}");
+        }
     }
 }
