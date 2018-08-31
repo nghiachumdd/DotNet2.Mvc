@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet2.Mvc.Routing", "DotNet2.Mvc.Routing\DotNet2.Mvc.Routing.csproj", "{B4738E33-9091-4C4D-AFFE-61ECD6F15DE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet2.Mvc.ModelBinding", "..\DotNet2.Mvc.ModelBinding\DotNet2.Mvc.ModelBinding.csproj", "{71125F88-0235-453A-82D7-D47CF71748E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B4738E33-9091-4C4D-AFFE-61ECD6F15DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4738E33-9091-4C4D-AFFE-61ECD6F15DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4738E33-9091-4C4D-AFFE-61ECD6F15DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71125F88-0235-453A-82D7-D47CF71748E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71125F88-0235-453A-82D7-D47CF71748E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71125F88-0235-453A-82D7-D47CF71748E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71125F88-0235-453A-82D7-D47CF71748E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
