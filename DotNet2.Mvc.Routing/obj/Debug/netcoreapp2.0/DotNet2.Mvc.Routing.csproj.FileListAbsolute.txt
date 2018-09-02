@@ -9,3 +9,14 @@ C:\MyFolder\Study\Microsoft.Net\Practices\DotNet2.Mvc\DotNet2.Mvc.Routing\obj\De
 C:\MyFolder\Study\Microsoft.Net\Practices\DotNet2.Mvc\DotNet2.Mvc.Routing\bin\Debug\netcoreapp2.0\DotNet2.Mvc.Routing.pdb
 C:\MyFolder\Study\Microsoft.Net\Practices\DotNet2.Mvc\DotNet2.Mvc.Routing\obj\Debug\netcoreapp2.0\DotNet2.Mvc.Routing.dll
 C:\MyFolder\Study\Microsoft.Net\Practices\DotNet2.Mvc\DotNet2.Mvc.Routing\obj\Debug\netcoreapp2.0\DotNet2.Mvc.Routing.pdb
+D:\Backup data 4410s Probook\Study\Microsoft.net\Practices\DotNetCore\DotNet2.Mvc\DotNet2.Mvc.Routing\bin\Debug\netcoreapp2.0\DotNet2.Mvc.Routing.deps.json
+D:\Backup data 4410s Probook\Study\Microsoft.net\Practices\DotNetCore\DotNet2.Mvc\DotNet2.Mvc.Routing\bin\Debug\netcoreapp2.0\DotNet2.Mvc.Routing.runtimeconfig.json
+D:\Backup data 4410s Probook\Study\Microsoft.net\Practices\DotNetCore\DotNet2.Mvc\DotNet2.Mvc.Routing\bin\Debug\netcoreapp2.0\DotNet2.Mvc.Routing.runtimeconfig.dev.json
+D:\Backup data 4410s Probook\Study\Microsoft.net\Practices\DotNetCore\DotNet2.Mvc\DotNet2.Mvc.Routing\bin\Debug\netcoreapp2.0\DotNet2.Mvc.Routing.dll
+D:\Backup data 4410s Probook\Study\Microsoft.net\Practices\DotNetCore\DotNet2.Mvc\DotNet2.Mvc.Routing\bin\Debug\netcoreapp2.0\DotNet2.Mvc.Routing.pdb
+D:\Backup data 4410s Probook\Study\Microsoft.net\Practices\DotNetCore\DotNet2.Mvc\DotNet2.Mvc.Routing\obj\Debug\netcoreapp2.0\DotNet2.Mvc.Routing.csprojAssemblyReference.cache
+D:\Backup data 4410s Probook\Study\Microsoft.net\Practices\DotNetCore\DotNet2.Mvc\DotNet2.Mvc.Routing\obj\Debug\netcoreapp2.0\DotNet2.Mvc.Routing.csproj.CoreCompileInputs.cache
+D:\Backup data 4410s Probook\Study\Microsoft.net\Practices\DotNetCore\DotNet2.Mvc\DotNet2.Mvc.Routing\obj\Debug\netcoreapp2.0\DotNet2.Mvc.Routing.AssemblyInfoInputs.cache
+D:\Backup data 4410s Probook\Study\Microsoft.net\Practices\DotNetCore\DotNet2.Mvc\DotNet2.Mvc.Routing\obj\Debug\netcoreapp2.0\DotNet2.Mvc.Routing.AssemblyInfo.cs
+D:\Backup data 4410s Probook\Study\Microsoft.net\Practices\DotNetCore\DotNet2.Mvc\DotNet2.Mvc.Routing\obj\Debug\netcoreapp2.0\DotNet2.Mvc.Routing.dll
+D:\Backup data 4410s Probook\Study\Microsoft.net\Practices\DotNetCore\DotNet2.Mvc\DotNet2.Mvc.Routing\obj\Debug\netcoreapp2.0\DotNet2.Mvc.Routing.pdb

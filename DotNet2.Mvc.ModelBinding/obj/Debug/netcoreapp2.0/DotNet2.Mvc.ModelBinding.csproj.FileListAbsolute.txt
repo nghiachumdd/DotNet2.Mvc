@@ -9,3 +9,14 @@ C:\MyFolder\Study\Microsoft.Net\Practices\DotNet2.Mvc.ModelBinding\obj\Debug\net
 C:\MyFolder\Study\Microsoft.Net\Practices\DotNet2.Mvc.ModelBinding\obj\Debug\netcoreapp2.0\DotNet2.Mvc.ModelBinding.dll
 C:\MyFolder\Study\Microsoft.Net\Practices\DotNet2.Mvc.ModelBinding\obj\Debug\netcoreapp2.0\DotNet2.Mvc.ModelBinding.pdb
 C:\MyFolder\Study\Microsoft.Net\Practices\DotNet2.Mvc.ModelBinding\obj\Debug\netcoreapp2.0\DotNet2.Mvc.ModelBinding.csprojAssemblyReference.cache
+D:\Backup data 4410s Probook\Study\Microsoft.net\Practices\DotNetCore\DotNet2.Mvc\DotNet2.Mvc.ModelBinding\bin\Debug\netcoreapp2.0\DotNet2.Mvc.ModelBinding.deps.json
+D:\Backup data 4410s Probook\Study\Microsoft.net\Practices\DotNetCore\DotNet2.Mvc\DotNet2.Mvc.ModelBinding\bin\Debug\netcoreapp2.0\DotNet2.Mvc.ModelBinding.runtimeconfig.json
+D:\Backup data 4410s Probook\Study\Microsoft.net\Practices\DotNetCore\DotNet2.Mvc\DotNet2.Mvc.ModelBinding\bin\Debug\netcoreapp2.0\DotNet2.Mvc.ModelBinding.runtimeconfig.dev.json
+D:\Backup data 4410s Probook\Study\Microsoft.net\Practices\DotNetCore\DotNet2.Mvc\DotNet2.Mvc.ModelBinding\bin\Debug\netcoreapp2.0\DotNet2.Mvc.ModelBinding.dll
+D:\Backup data 4410s Probook\Study\Microsoft.net\Practices\DotNetCore\DotNet2.Mvc\DotNet2.Mvc.ModelBinding\bin\Debug\netcoreapp2.0\DotNet2.Mvc.ModelBinding.pdb
+D:\Backup data 4410s Probook\Study\Microsoft.net\Practices\DotNetCore\DotNet2.Mvc\DotNet2.Mvc.ModelBinding\obj\Debug\netcoreapp2.0\DotNet2.Mvc.ModelBinding.csprojAssemblyReference.cache
+D:\Backup data 4410s Probook\Study\Microsoft.net\Practices\DotNetCore\DotNet2.Mvc\DotNet2.Mvc.ModelBinding\obj\Debug\netcoreapp2.0\DotNet2.Mvc.ModelBinding.csproj.CoreCompileInputs.cache
+D:\Backup data 4410s Probook\Study\Microsoft.net\Practices\DotNetCore\DotNet2.Mvc\DotNet2.Mvc.ModelBinding\obj\Debug\netcoreapp2.0\DotNet2.Mvc.ModelBinding.AssemblyInfoInputs.cache
+D:\Backup data 4410s Probook\Study\Microsoft.net\Practices\DotNetCore\DotNet2.Mvc\DotNet2.Mvc.ModelBinding\obj\Debug\netcoreapp2.0\DotNet2.Mvc.ModelBinding.AssemblyInfo.cs
+D:\Backup data 4410s Probook\Study\Microsoft.net\Practices\DotNetCore\DotNet2.Mvc\DotNet2.Mvc.ModelBinding\obj\Debug\netcoreapp2.0\DotNet2.Mvc.ModelBinding.dll
+D:\Backup data 4410s Probook\Study\Microsoft.net\Practices\DotNetCore\DotNet2.Mvc\DotNet2.Mvc.ModelBinding\obj\Debug\netcoreapp2.0\DotNet2.Mvc.ModelBinding.pdb

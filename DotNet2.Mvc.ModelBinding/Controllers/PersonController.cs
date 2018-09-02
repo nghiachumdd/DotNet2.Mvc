@@ -32,6 +32,11 @@ namespace DotNet2.Mvc.ModelBinding
         [HttpPost]
         public IActionResult Body([FromBody]PersonModel personModel)
         {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
             return Content($"The person's name is {personModel.Name}, and age is {personModel.Age}");
         }
     }

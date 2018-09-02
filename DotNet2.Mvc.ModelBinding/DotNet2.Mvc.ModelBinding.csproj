@@ -5,11 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="PersonController.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="wwwroot\" />
+    <Compile Include="wwwroot\PersonModel.cs" />
   </ItemGroup>
 
   <ItemGroup>
